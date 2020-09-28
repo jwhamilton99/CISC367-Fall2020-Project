@@ -1,0 +1,6 @@
+min chats: 1
+max chats: 128
+min authors: 1
+max authors: 12
+average chats: 8.134911894273127
+average authors: 2.6183920704845813
